@@ -1,0 +1,8 @@
+{
+  "name": "Remix PT Yusra Prima Solusindo - Invoicing \u0026 Finance System",
+  "description": "Aplikasi manajemen penawaran harga, proforma invoice, invoice lunas dengan ekspor PDF/Word, payment gateway, email otomatis, manajemen klien, dan laporan arus kas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
